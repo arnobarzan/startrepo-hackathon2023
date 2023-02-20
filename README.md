@@ -1,5 +1,5 @@
 # PXL Hackathon - februari 2023 - *groepnummer*
-### Teamleaden
+### Teamleden
 - ... (SWM/AON/SNB)
 - ... (SWM/AON/SNB)
 - ... (SWM/AON/SNB)
@@ -33,7 +33,7 @@ Doel hier om dit functioneel te beschrijven*
 ### Build / deploy proces
 
 *Documenteer hier de vereiste stappen om de applicatie te builden en/of deployen*
-*of: Documenteer waar en hoe de app beschikbaar is*
+*of: Documenteer waar en hoe de app/design beschikbaar is*
 
 1. ...
 2. ...
@@ -43,4 +43,4 @@ Doel hier om dit functioneel te beschrijven*
 
 *Indien jullie nog bepaalde andere informatie wensen toe te voegen is daar hier ruimte voor*
 
-### Optioneel: screenshots van de applicatie:
+### Enkele screenshots van de applicatie/uitwerking:
