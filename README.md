@@ -44,3 +44,5 @@ Doel hier om dit functioneel te beschrijven*
 *Indien jullie nog bepaalde andere informatie wensen toe te voegen is daar hier ruimte voor*
 
 ### Enkele screenshots van de applicatie/uitwerking:
+
+### Optioneel: korte video van het resultaat
