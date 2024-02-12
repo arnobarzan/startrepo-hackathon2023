@@ -1,4 +1,4 @@
-# PXL Hackathon - februari 2024 - <groepnummer>
+# PXL Hackathon - februari 2024 - groepnummer
 ### Teamleaden
 - ... (SWM/AON/SNB)
 - ... (SWM/AON/SNB)
