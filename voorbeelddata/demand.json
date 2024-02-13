@@ -1,0 +1,13 @@
+{
+  "demand": {
+    "coordinates": {
+      "p0": [51.150118, 4.671197]
+    },
+    "bees": {
+      "type": "honeybee",
+      "population": 20000,
+      "action_radius": 2000,
+      "mean_consumption": 4.4
+    }
+  }
+}
