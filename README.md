@@ -1,4 +1,4 @@
-# PXL Hackathon - februari 2025 - Groep <groepnummer>
+# PXL Hackathon - februari 2026 - Groep <groepnummer>
 ### Teamleaden
 - ... (SWM/AON/SNB)
 - ... (SWM/AON/SNB)
@@ -20,7 +20,7 @@ Doel hier om dit functioneel te beschrijven*
 
 ### Gebruikte resources
 
-*Welke resources (afbeeldingen, geluiden, ...) hebben jullie gebruikt? Graag bronvermelding / URL toevoegen*
+*Welke resources hebben jullie gebruikt? Graag bronvermelding / URL toevoegen*
 
 ...
 
